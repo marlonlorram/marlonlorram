@@ -35,6 +35,7 @@
 * 🔠 Typescript
 * 🐹 Golang
 * ⚙️ Rust
+* 🐍 Python
 * ♨️ Java
 * ♾️ C/C++
   
