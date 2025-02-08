@@ -51,7 +51,7 @@
 * 🔂 Assembly
 
 <p align='left'>
-  ✉️ How to reach me: <a href='mailto:marlonlorram96@gmail.com'>marlonlorram96@gmail.com</a>
+  ✉️ How to reach me: <a href='mailto:marlonlorram94@gmail.com'>marlonlorram94@gmail.com</a>
 </p>
 
 <!--
